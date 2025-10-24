@@ -1,6 +1,7 @@
 🚘 Auto MPG Prediction – Machine Learning Project
 
-Developed by Amir Mohammadi, a data‑driven professional showcasing end‑to‑end machine learning workflow — covering data preprocessing, model training, hyperparameter tuning, and deployment with a Tkinter‑based graphical interface featuring a custom red theme (#B22222).
+Developed by Amir Mohammadi, a data‑driven professional showcasing end‑to‑end machine learning workflow — covering data preprocessing,
+model training, hyperparameter tuning, and deployment with a Tkinter‑based graphical interface featuring a custom red theme (#B22222).
 ---
 
  📊 Dataset Overview
